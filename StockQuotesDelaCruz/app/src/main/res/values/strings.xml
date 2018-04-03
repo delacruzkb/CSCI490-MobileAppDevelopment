@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StockQuotes-DelaCruz</string>
+    <string name="prompt">Enter stock symbol : </string>
+    <string name="symbol">Symbol :</string>
+    <string name="name">Name :</string>
+    <string name="last_trade_price">Last Trade Price :</string>
+    <string name="last_trade_time">Last Trade Time :</string>
+    <string name="change">Change :</string>
+    <string name="week_range">52 Week Range :</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TipCalculator-counter-delacruz</string>
+    <string name="test_text">Testing text: $123.45</string>
+    <string name="amount_text">Check Amount : </string>
+    <string name="numberSplitting_text">Split for : </string>
+    <string name="tip_text">Tip(percentage): </string>
+    <string name="tipFinal_text">Tip : </string>
+    <string name="total_text">Total cost : </string>
+    <string name="total_textForSplit">Total for each : </string>
+    <string name="clearButton_text">Clear</string>
+    <string name="calculateButton_text">Calculate</string>
+    <string name="defaultTip1_text">15</string>
+    <string name="defaultTip2_text">20</string>
+    <string name="customTip_text">Custom Tip</string>
+    <string name="splitNumber_text">Amount per person</string>
+    <string name ="invalidAmount">Check Amount has an invalid input. \nExample of valid input: 5.03</string>
+    <string name ="invalidSplitNumber">Split number has an invalid input. </string>
+    <string name ="invalidTip">Tip has an invalid input. \nExample of valid input: 5.03</string>
+    <string name ="amountTooLow">The bill amount is too low, it must be at least 1.</string>
+    <string name ="splitNumberTooLow">There must be at least 1 person paying.</string>
+    <string name="tipTooLow">The tip percentage must be at least 1.</string>
+</resources>
